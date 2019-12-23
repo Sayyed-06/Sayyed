@@ -1,4 +1,5 @@
-# Sayyed
+#README.md
+
 
 pkg install nano
 pkg install figlet 
